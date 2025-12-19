@@ -271,8 +271,8 @@ Airline-Flight-Performance-Analysis/
 
 - 💼 **GitHub**: [@VINIT8999](https://github.com/VINIT8999)
 - 📧 **Email**: vinitraparti8999@example.com
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/vinit8999)
-- 🌐 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
+- 💼 **LinkedIn**: [Vinit Raparti](https://www.linkedin.com/feed/)
+
 
 **For Questions:**
 - 💡 Open an issue for bugs or feature requests
